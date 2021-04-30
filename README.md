@@ -1,4 +1,4 @@
-# quarkus-proto1-fd
+# apollo-proto1-fd
 
 This is a federation service used to expose a GraphQL API making use of Apollo.
 
