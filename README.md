@@ -1,5 +1,7 @@
 # quarkus-proto1-fd
 
+This is a federation service used to expose a GraphQL API making use of Apollo.
+
 ## Development docker image
 The difference between production and development docker image is in command. The development image needs volume to share the source with host machine.
 
